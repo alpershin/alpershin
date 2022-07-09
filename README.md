@@ -25,7 +25,7 @@
 </div>
 
 ### :man_technologist: About Me :
-I am a C# and Unity developer from Russia
+I am a C# and Unity developer from Penza, Russia
 - :student: Student of the Penza State Technological University
 - :notebook: I spend a lot of time learning different development technologies
 - :video_game: I develop games on Unity
