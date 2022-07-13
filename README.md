@@ -23,7 +23,7 @@
   <img src="https://media4.giphy.com/media/4HcGdnro0YX3a8EBSf/giphy.gif?cid=ecf05e47ee5j3eoozicfvkybmz7naa4fc33w2az6a56frzpj&rid=giphy.gif&ct=g" width="1000"/>
   </h2>
 </div>
-
+ 
 ### :man_technologist: About Me :
 I am a C# and Unity developer from Penza, Russia
 - :student: Student of the Penza State Technological University
