@@ -16,9 +16,6 @@
 
 <div id="stat" align="center">
   <img src="https://komarev.com/ghpvc/?username=nobodyHelp&style=flat-square&color=blue" alt=""/>
-  <h1>
-    Hello, world!    
-  </h1>
   <h2>
   <img src="https://media4.giphy.com/media/4HcGdnro0YX3a8EBSf/giphy.gif?cid=ecf05e47ee5j3eoozicfvkybmz7naa4fc33w2az6a56frzpj&rid=giphy.gif&ct=g" width="1000"/>
   </h2>
