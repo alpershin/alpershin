@@ -1,7 +1,7 @@
 <div id="header" align="center"> 
   <img src="https://media4.giphy.com/media/6FT3QE3AJMfwJDZBNr/giphy.gif?cid=ecf05e47g0ab4r4fvzopoqkilbycd1kmn8pyv7zex8xdfinn&rid=giphy.gif&ct=s" width="150"/>
 </div>
-
+ 
 <div id="badges" align="center">
   <a href="https://vk.com/s_pershinn">
     <img src="https://img.shields.io/badge/VKontakte-blue?logo=vk&logoColor=white&style=for-the-badge" alt="VKontakte Badge"/>
