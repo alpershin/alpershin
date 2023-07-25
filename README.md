@@ -41,6 +41,10 @@ I am a C# and Unity developer from Penza, Russia
   <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" title="Docker" alt="Docker " width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/gradle/gradle-plain.svg" title="Gradle" **alt="Gradle" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/nuget/nuget-original.svg" title="NuGet" **alt="NuGet" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/xcode/xcode-plain.svg" title="XCode" **alt="XCode" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/jetbrains/jetbrains-plain.svg" title="Rider" **alt="Rider" width="40" height="40"/>
 </div>
 
 ### :fire: My Stats :
