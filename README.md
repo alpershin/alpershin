@@ -19,10 +19,7 @@
 </div>
  
 ### :man_technologist: About Me :
-I am a C# and Unity developer from Penza, Russia
-- :student: Student of the Penza State Technological University
-- :notebook: I spend a lot of time learning different development technologies
-- :video_game: I develop games on Unity
+Motivated and results-driven software engineer with 3+ years of experience in my field. I consistently demonstrate expertise in improving software performance through new ideas, updates, debugging, and coding. Experience with development tools that improve the accuracy and performance of software, especially in Gamedev, is my speciality. In my free time, I read books, both technical and fiction, and spend time with friends. I also enjoy spending time playing games, both desktop, PC and mobile, learning different mechanics and approaches to implementing certain techniques.
 
 ---
 
@@ -43,6 +40,3 @@ I am a C# and Unity developer from Penza, Russia
   <img src="https://github.com/devicons/devicon/blob/master/icons/xcode/xcode-plain.svg" title="XCode" **alt="XCode" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/jetbrains/jetbrains-plain.svg" title="Rider" **alt="Rider" width="40" height="40"/>
 </div>
-
-### :fire: My Stats :
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=nobodyHelp&theme=github-green-purple&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
