@@ -24,7 +24,6 @@
 ### :man_technologist: About Me :
 Motivated and results-driven software engineer with 3+ years of experience in my field. I consistently demonstrate expertise in improving software performance through new ideas, updates, debugging, and coding. Experience with development tools that improve the accuracy and performance of software, especially in Gamedev, is my speciality. In my free time, I read books, both technical and fiction, and spend time with friends. I also enjoy spending time playing games, both desktop, PC and mobile, learning different mechanics and approaches to implementing certain techniques.
 
-![](https://komarev.com/ghpvc/?username=alpershin&color=green)
 ---
 
 ### :hammer_and_wrench: Languages and Tools :
