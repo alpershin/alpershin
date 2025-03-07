@@ -13,7 +13,7 @@
     <img src="https://img.shields.io/badge/Telegram-lightblue?logo=telegram&logoColor=white&style=for-the-badge" alt="Telegram Badge"/>
   </a>  
   <a href="https://aleksandrpershin.notion.site/baae7f46028b4f5a95b8a5d24119c1f8">
-    <img src="https://img.shields.io/badge/Notion-lightgray?logo=Notion&logoColor=white&style=for-the-badge%22%20alt=%22Notion%20Badge"/>
+    <img src="https://img.shields.io/badge/Notion-lightgray?logo=telegram&logoColor=white&style=for-the-badge" alt="Notion Badge"/>
   </a>  
 </div>
 
