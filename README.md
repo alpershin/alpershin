@@ -24,7 +24,10 @@
 ### :man_technologist: About Me :
 Motivated and results-driven software engineer with 3+ years of experience in my field. I consistently demonstrate expertise in improving software performance through new ideas, updates, debugging, and coding. Experience with development tools that improve the accuracy and performance of software, especially in Gamedev, is my speciality. In my free time, I read books, both technical and fiction, and spend time with friends. I also enjoy spending time playing games, both desktop, PC and mobile, learning different mechanics and approaches to implementing certain techniques.
 
-[![Spotify](https://novatorem.bgstatic.vercel.app/api/spotify)](https://open.spotify.com/artist/0HXiFFhg287d15ssjFaRZp)
+<div id="player" align="center">
+  [![Spotify](https://novatorem.bgstatic.vercel.app/api/spotify)](https://open.spotify.com/artist/0HXiFFhg287d15ssjFaRZp)
+</div>
+
 ---
 
 ### :hammer_and_wrench: Languages and Tools :
